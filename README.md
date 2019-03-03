@@ -4,10 +4,11 @@
 
 * ii- http://18.184.167.28
 
-* iii- In this task i installed Apache2 , mod_wsgi(a tool that allows Apache to serve flask apps) and some applications
-  in vagrant as postgresql, git, pip, virtualenv, httplib2, Python, Requests, oauth2client, SQLAlchemy, Flask, libpq-dev and psycopg2
+* iii- In this task **software installed** mod_wsgi(a tool that allows Apache to serve flask apps) applications as vagrant, git, pip, virtualenv, httplib2, Python, Requests, oauth2client, SQLAlchemy, Flask, libpq-dev and psycopg2
+  **configurations/setup made** Apache2, Database used PostgreSQL and wsgi
 
-* iv- Google API services, Vagrant, Amazon Lightsail
+* iv-Amazon Lightsail, Udacity Videos, YouTube Tutorials and some github issues. Also some answered questions on stachexchange and stackoverflow
 
 * the passphrase for any user : 123zizO
+* 'grader' SSH passphrase: 123zizO
 
