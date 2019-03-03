@@ -9,3 +9,5 @@
 
 * iv- Google API services, Vagrant, Amazon Lightsail
 
+* the passphrase for any user : 123zizO
+
