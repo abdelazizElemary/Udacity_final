@@ -28,7 +28,7 @@
 
 
 # To login from terminal:
-`ssh -i $private_key -p 2200 grader@18.185.106.233`
+`ssh -i $private_key -p 2200 grader@18.184.167.28`
 
 
 
