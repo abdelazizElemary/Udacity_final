@@ -15,7 +15,7 @@
 
 # Resources that helped me
 
-* iv- Amazon Lightsail, Udacity Videos, YouTube Tutorials and some github issues. Also some answered questions on stachexchange and stackoverflow
+* iv- Udacity Videos, YouTube Tutorials and some github issues. Also some answered questions on stachexchange and stackoverflow
 
 1. https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 2. https://www.godaddy.com/help/changing-the-ssh-port-for-your-linux-server-7306
